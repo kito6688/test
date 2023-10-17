@@ -1,0 +1,525 @@
+Car Make,Car Model,Location,Steering wheel,Fuel,Condition,Transmission,Drive,Type,Paint-color,Cylinders,Mileage (km),Year,Used Car Price(KIP)
+Kia,Seltos,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,suv,white,4,50000,2021,506000000
+Kia,Cerato,VTE,LEFT,benzine, GOOD,automatic,rwd,sedan,white,4,70000,2015,241500000
+Kia,Cerato,VTE,LEFT,benzine, GOOD,Manual,rwd,sedan,white,4,60000,2015,243800000
+Kia,Cerato,VTE,LEFT,benzine, GOOD,automatic,rwd,sedan,Black,4,38000,2015,273700000
+Kia,Cerato,VTE,LEFT,benzine, GOOD,Manual,rwd,sedan,white,4,52000,2017,303600000
+Kia,Cerato,VTE,LEFT,benzine,Crash,Manual,rwd,sedan,white,4,84000,2018,294400000
+Kia,Cerato,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,80000,2014,280600000
+Kia,Cerato,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,silver,4,99000,2017,322000000
+Kia,Cerato,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,silver,4,36000,2020,402500000
+Kia,Cerato,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,silver,4,52000,2015,273700000
+Kia,Sportage,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,Black,4,78000,2014,333500000
+Kia,Sportage,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,Black,4,45000,2015,333500000
+Kia,Picanto,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,Gray,4,69000,2018,202400000
+Kia,Picanto,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,silver,4,67000,2013,172500000
+Kia,Picanto,VTE,LEFT,benzine,GOOD,automatic,rwd,hatchback,silver,4,68000,2014,172500000
+Kia,Picanto,VTE,LEFT,benzine,Crash,Manual,rwd,hatchback,Green,4,90000,2014,149500000
+Kia,Picanto,VTE,LEFT,benzine,Crash,Manual,rwd,hatchback,Red,4,85000,2014,149500000
+Kia,Carens,VTE,LEFT,diesel,GOOD,Manual,rwd,hatchback,silver,4,52000,2015,248400000
+Kia,Rio,VTE,LEFT,benzine,GOOD,Manual,rwd,hatchback,Gray,4,41000,2018,310500000
+Kia,Sedona,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,silver,4,50000,2017,517500000
+Kia,Carens,VTE,LEFT,diesel,GOOD,Manual,4wd,hatchback,Gray,4,52000,2017,225400000
+Kia,Rio,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,70000,2017,287500000
+Kia,Rio,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,40000,2020,294400000
+Kia,Rio,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,silver,4,45000,2019,287500000
+Kia,Rio,VTE,LEFT,benzine,Crash,Manual,rwd,sedan,white,4,90000,2017,241500000
+Kia,Rio,VTE,LEFT,benzine,GOOD,Manual,rwd,sedan,white,4,94000,2016,264500000
+Kia,Rio,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,70000,2016,264500000
+Kia,Carens,VTE,LEFT,diesel,GOOD,Manual,4wd,hatchback,Gray,4,99000,2016,248400000
+Kia,Rio,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Black,4,35000,2017,207000000
+Kia,Rio,VTE,LEFT,benzine,GOOD,Manual,rwd,sedan,Black,4,60000,2017,207000000
+Kia,Sedona,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,Black,4,48000,2017,517500000
+Hyundai,Elantra,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,Blue,4,33000,2020,402500000
+Hyundai,Elantra,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Black,4,60000,2017,326600000
+Hyundai,Elantra,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,75000,2017,241500000
+Hyundai,Elantra,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,white,4,31000,2020,356500000
+Hyundai,Elantra,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,silver,4,91000,2015,264500000
+Hyundai,Elantra,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,72000,2015,287500000
+Hyundai,Elantra,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Cream,4,48000,2012,250700000
+Hyundai,Elantra,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Sugar,4,89000,2015,271400000
+Hyundai,Elantra,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,85000,2012,241500000
+Hyundai,Elantra,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,25000,2018,342700000
+Hyundai,Elantra,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,silver,4,89000,2013,248400000
+Hyundai,Elantra,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,white,4,36000,2020,395600000
+Hyundai,Elantra,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,gold silver,4,86000,2015,287500000
+Hyundai,Elantra,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,65000,2015,264500000
+Hyundai,Elantra,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,80000,2015,294400000
+Hyundai,Accent,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,71000,2013,227700000
+Hyundai,Accent,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,49594,2017,285200000
+Hyundai,Accent,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,53000,2017,250700000
+Hyundai,Accent,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,silver,4,90000,2015,241500000
+Hyundai,CRETA,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,Black,4,45000,2017,386400000
+Hyundai,CRETA,VTE,LEFT,diesel,Crash,automatic,FWD,suv,silver,4,53000,2016,386400000
+Hyundai,CRETA,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,Orange,4,44000,2018,432400000
+Hyundai,CRETA,VTE,LEFT,diesel,Crash,automatic,FWD,suv,Gray,4,78000,2016,368000000
+Hyundai,CRETA,VTE,LEFT,diesel,Crash,automatic,FWD,suv,Black,4,44000,2018,402500000
+Hyundai,CRETA,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,4,40000,2018,402500000
+Hyundai,CRETA,VTE,LEFT,diesel,GOOD,Manual,FWD,suv,Blue,4,58000,2015,402500000
+Hyundai,CRETA,VTE,LEFT,diesel,GOOD,Manual,FWD,suv,Black,4,42000,2017,395600000
+Hyundai,GRAND_I,VTE,LEFT,benzine,GOOD,Manual,rwd,hatchback,white,4,42000,2016,154100000
+Hyundai,I10,VTE,LEFT,benzine,Crash,Manual,rwd,hatchback,silver,4,95000,2012,138000000
+Hyundai,GRAND_I_SMART,VTE,LEFT,benzine,Crash,Manual,rwd,hatchback,silver,4,47000,2019,207000000
+Hyundai,H1,VTE,LEFT,benzine,GOOD,automatic,rwd,Van,white,4,90000,2016,363400000
+Hyundai,I30,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,silver,4,85000,2015,241500000
+Hyundai,I30,VTE,LEFT,benzine,GOOD,automatic,rwd,hatchback,Black,4,85000,2014,220800000
+Hyundai,IX35,VTE,LEFT,benzine,GOOD,automatic,rwd,suv,Black,4,80000,2017,310500000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,Crash,automatic,rwd,suv,Sugar,4,60000,2015,414000000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,GOOD,automatic,rwd,suv,white,4,60000,2015,414000000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,Crash,automatic,rwd,suv,Sugar,4,46000,2014,345000000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,GOOD,automatic,rwd,suv,white,4,125303,2013,363400000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,Black,4,60000,2014,363400000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,Crash,automatic,rwd,suv,white,4,42000,2013,356500000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,4,67000,2017,598000000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,4,120000,2015,540500000
+Hyundai,STAREX ,VTE,LEFT,diesel,GOOD,automatic,rwd,Van,silver,4,90000,2015,363400000
+Hyundai,STAREX ,VTE,LEFT,diesel,Crash,automatic,rwd,Van,white,4,105000,2010,294400000
+Hyundai,VELOSTER ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Red,4,97000,2014,287500000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,65000,2016,471500000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,90000,2014,363400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Gray,4,80000,2010,253000000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,silver,4,80000,2013,333500000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Black,4,55000,2016,448500000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Black,4,66369,2014,388700000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,40000,2018,616400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,white,4,10000,2022,754400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,silver,4,40000,2018,616400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Black,4,31000,2016,529000000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,94000,2014,391000000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,silver,4,85000,2010,294400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,40000,2016,517500000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Black,4,64000,2016,478400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,86000,2013,356500000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,66000,2017,483000000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,40256,2015,386400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,66000,2016,471500000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,Crash,Manual,rwd,sedan,white,4,60000,2014,340400000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,60000,2011,287500000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,37000,2016,356500000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Red,4,90000,2016,365700000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,74000,2015,349600000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,28000,2017,379500000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,31000,2018,460000000
+TOYOTA ,COROLLA_CROSS  ,VTE,LEFT,hybrid,VERY GOOD,automatic,rwd,suv,Gray,4,41000,2022,724500000
+TOYOTA ,FJ_CRUISER   ,VTE,LEFT,hybrid,Crash,automatic,FWD,Jeep,Gray,6,68000,2013,874000000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,PPV,white,4,33000,2022,1292600000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,Crash,automatic,FWD,PPV,Black,4,1000,2023,1276500000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,white,4,40000,2018,1053400000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,PPV,white,4,40000,2020,1099400000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,PPV,Gray,4,2000,2023,1127000000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,white,4,30000,2018,1122400000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,Black,4,114000,2016,943000000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,Crash,automatic,FWD,PPV,silver,4,51000,2019,1058000000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,white,4,40000,2019,1122400000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,white,4,47000,2018,1030400000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,white,4,84000,2011,547400000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,white,4,87129,2017,931500000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,gold silver,4,75000,2012,625600000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,Black,4,38000,2018,1055700000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,PPV,white,4,29000,2020,1115500000
+TOYOTA ,GT_86 ,VTE,LEFT,benzine,GOOD,automatic,rwd,coupe,white,4,60000,2014,618700000
+TOYOTA ,GT_86 ,VTE,LEFT,benzine,GOOD,automatic,rwd,coupe,Orange,4,15000,2018,644000000
+TOYOTA ,HIACE ,VTE,LEFT,diesel,GOOD,Manual,rwd,Van,white,4,5122,2020,1069500000
+TOYOTA ,HIACE ,VTE,LEFT,diesel,Crash,Manual,rwd,Van,white,4,120000,2020,1069500000
+TOYOTA ,HIACE ,VTE,LEFT,diesel,Crash,Manual,rwd,Van,white,4,110000,2012,586500000
+TOYOTA ,HIACE ,VTE,LEFT,diesel,Crash,Manual,rwd,Van,white,4,83000,2017,770500000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,8,63000,2014,1748000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,silver,8,65000,2013,1541000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,gold silver,8,73000,2012,1124424000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,8,120000,2011,1368500000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,8,60000,2014,1541000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,8,60000,2014,1725000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,suv,white,6,1500,2023,3427000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,suv,white,6,38000,2020,2484000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,8,60000,2014,1725000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,8,83000,2013,1426000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,8,70000,2015,1725000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,8,84000,2017,2173500000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,8,67000,2018,2530000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,6,61000,2017,1598500000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,suv,white,6,32000,2020,1752600000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,Black,6,85000,2012,1752600000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,silver,6,69000,2013,1081000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,GOOD,Manual,FWD,suv,Black,6,70000,2015,1127000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,Black,6,77000,2013,1104000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,Black,6,65000,2012,1104000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,6,55000,2015,1334000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,6,56000,2013,1265000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,Crash,Manual,FWD,suv,white,6,68000,2012,954500000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,Crash,automatic,FWD,,white,6,85000,2012,1076400000
+TOYOTA ,REVO ,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,white,4,36000,2019,685400000
+TOYOTA ,REVO ,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,58000,2015,655500000
+TOYOTA ,REVO ,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,22000,2020,667000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,white,4,90000,2017,793500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,50000,2019,885500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,54000,2016,839500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,93000,2015,828000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,Orange,4,68000,2017,816500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,silver,4,97000,2015,770500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,silver,4,70000,2017,816500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,white,4,70000,2016,816500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,48000,2017,754400000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,107000,2017,816500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,VERY GOOD,Manual,4x4,SUV's,white,4,53000,2020,897000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,75000,2015,823400000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,48000,2016,816500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,57000,2019,885500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,62000,2015,823400000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,silver,4,85000,2017,770500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,white,4,70000,2018,724500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,1226,2019,908500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,white,4,52000,2015,816500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,Black,4,40000,2021,977500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,Blue,4,80000,2016,678500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,white,4,68000,2018,828000000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,Black,4,50000,2017,701500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,silver,4,50000,2018,805000000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,Orange,4,80000,2017,770500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,white,4,24300,2021,862500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,31000,2019,811900000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,35000,2018,851000000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,VERY GOOD,Manual,2x4,SUV's,white,4,18000,2022,857900000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,white,4,52000,2016,731400000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,50000,2018,747500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,36000,2021,862500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,VERY GOOD,automatic,2x4,SUV's,white,4,40000,2020,825700000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,GOOD,automatic,2x4,SUV's,white,4,50000,2019,823400000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,VERY GOOD,automatic,2x4,SUV's,white,4,31000,2020,880900000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,VERY GOOD,automatic,2x4,SUV's,silver,4,25000,2021,874000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,white,4,95000,2016,793500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,white,4,65000,2019,885500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,automatic,4x4,SUV's,white,4,132000,2016,805000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,automatic,4x4,SUV's,white,4,48000,2017,851000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,VERY GOOD,automatic,4x4,SUV's,white,4,43000,2021,1069500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,VERY GOOD,automatic,4x4,SUV's,white,4,32000,2020,1069500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,automatic,4x4,SUV's,white,4,74000,2017,782000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,white,4,53000,2016,816500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,Black,4,75000,2015,839500000
+TOYOTA ,REVO_SMART_CAB ,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,75000,2015,501400000
+TOYOTA ,REVO_SMART_CAB ,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,Black,4,75000,2017,570400000
+TOYOTA ,REVO_SMART_CAB ,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,Gray,4,67000,2017,570400000
+TOYOTA ,RUSH ,VTE,LEFT,benzine,Crash,automatic,rwd,SUV,Black,4,29000,2019,586500000
+TOYOTA ,SIENNA ,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,Black,4,90000,2014,437000000
+TOYOTA ,SIENNA ,VTE,LEFT,benzine,GOOD,automatic,rwd,hatchback,gold silver,4,52000,2010,529000000
+TOYOTA ,TUNDRA ,VTE,LEFT,benzine,GOOD,automatic,4x4,SUV's,Sugar,8,65000,2010,1354700000
+TOYOTA ,TUNDRA ,VTE,LEFT,benzine,GOOD,automatic,4x4,SUV's,silver,8,66000,2010,770500000
+TOYOTA ,TUNDRA ,VTE,LEFT,benzine,Crash,automatic,4x4,SUV's,Sugar,8,66000,2015,1058000000
+TOYOTA ,VIGO,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,Red,4,120000,2008,356500000
+TOYOTA ,VIGO,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,76000,2008,351900000
+TOYOTA ,VIGO_4x4,CPS,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,150000,2010,455400000
+TOYOTA ,VIGO_prerunner,CPS,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,100000,2013,570400000
+TOYOTA ,VIGO_CHAMP ,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,110000,2013,402500000
+TOYOTA ,VIGO_CHAMP ,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,61000,2013,501400000
+TOYOTA ,VIGO_CHAMP ,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,white,4,100000,2014,434700000
+TOYOTA ,VIGO_CHAMP_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,65000,2014,563500000
+TOYOTA ,VIGO_CHAMP_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,100000,2013,570400000
+TOYOTA ,VIGO_CHAMP_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,87000,2015,609500000
+TOYOTA ,VIGO_CHAMP_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,166187,2011,483000000
+TOYOTA ,VIGO_CHAMP_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,90000,2015,586500000
+TOYOTA ,VIGO_CHAMP_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,gold silver,4,72455,2014,565800000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,Gray,4,70000,2015,644000000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,gold silver,4,83000,2014,609500000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,white,4,120000,2013,586500000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,white,4,90000,2015,586500000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,white,4,90000,2014,639400000
+TOYOTA ,VIGO_CHAMP_4x4,HP,LEFT,diesel,Crash,Manual,4x4,SUV's,silver,4,61055,2013,598000000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,78000,2014,609500000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,95000,2015,655500000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,90000,2014,575000000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Sugar,4,32645,2017,356500000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Gray,4,59000,2018,379500000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,Crash,Manual,rwd,sedan,Purtle,4,65000,2016,287500000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,Blue,4,12000,2020,409400000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,VERY GOOD,Manual,rwd,sedan,Gray,4,8000,2020,386400000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,62000,2014,368000000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,20000,2020,391000000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,65000,2018,386400000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,white,4,28000,2021,443900000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,21000,2019,407100000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,GOOD,Manual,rwd,sedan,white,4,40000,2018,356500000
+TOYOTA ,YARIS ,VTE,LEFT,benzine,Crash,Manual,rwd,sedan,silver,4,97000,2009,207000000
+TOYOTA ,YARIS ,VTE,LEFT,benzine,GOOD,Manual,rwd,hatchback,white,4,44259,2017,342700000
+TOYOTA ,YARIS ,VTE,LEFT,benzine,GOOD,automatic,rwd,hatchback,silver,4,59000,2017,342700000
+TOYOTA ,YARIS ,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,silver,4,54000,2014,325000000
+TOYOTA ,YARIS ,VTE,LEFT,benzine,GOOD,automatic,rwd,hatchback,white,4,50000,2017,340400000
+HONDA ,CITY ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,white,4,25000,2022,437000000
+HONDA ,CITY ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,white,4,30000,2022,460000000
+HONDA ,CITY ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,Black,4,21000,2022,506000000
+HONDA ,CITY ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,Black,4,51000,2020,483000000
+HONDA ,CITY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,silver,4,80000,2017,356500000
+HONDA ,CIVIC ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Gray,4,80000,2018,455400000
+HONDA ,CIVIC ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,70000,2017,432400000
+HONDA ,CIVIC ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,50000,2018,441600000
+HONDA ,CIVIC ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,50000,2017,425500000
+HONDA ,CIVIC ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Blue,4,70000,2018,425500000
+Kia,Seltos,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,suv,white,4,50000,2021,506000000
+Kia,Cerato,VTE,LEFT,benzine, GOOD,automatic,rwd,sedan,white,4,70000,2015,241500000
+Kia,Cerato,VTE,LEFT,benzine, GOOD,Manual,rwd,sedan,white,4,60000,2015,243800000
+Kia,Cerato,VTE,LEFT,benzine, GOOD,automatic,rwd,sedan,Black,4,38000,2015,273700000
+Kia,Cerato,VTE,LEFT,benzine, GOOD,Manual,rwd,sedan,white,4,52000,2017,303600000
+Kia,Cerato,VTE,LEFT,benzine,Crash,Manual,rwd,sedan,white,4,84000,2018,294400000
+Kia,Cerato,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,80000,2014,280600000
+Kia,Cerato,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,silver,4,99000,2017,322000000
+Kia,Cerato,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,silver,4,36000,2020,402500000
+Kia,Cerato,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,silver,4,52000,2015,273700000
+Kia,Sportage,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,Black,4,78000,2014,333500000
+Kia,Sportage,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,Black,4,45000,2015,333500000
+Kia,Picanto,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,Gray,4,69000,2018,202400000
+Kia,Picanto,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,silver,4,67000,2013,172500000
+Kia,Picanto,VTE,LEFT,benzine,GOOD,automatic,rwd,hatchback,silver,4,68000,2014,172500000
+Kia,Picanto,VTE,LEFT,benzine,Crash,Manual,rwd,hatchback,Green,4,90000,2014,149500000
+Kia,Picanto,VTE,LEFT,benzine,Crash,Manual,rwd,hatchback,Red,4,85000,2014,149500000
+Kia,Carens,VTE,LEFT,diesel,GOOD,Manual,rwd,hatchback,silver,4,52000,2015,248400000
+Kia,Rio,VTE,LEFT,benzine,GOOD,Manual,rwd,hatchback,Gray,4,41000,2018,310500000
+Kia,Sedona,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,silver,4,50000,2017,517500000
+Kia,Carens,VTE,LEFT,diesel,GOOD,Manual,4wd,hatchback,Gray,4,52000,2017,225400000
+Kia,Rio,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,70000,2017,287500000
+Kia,Rio,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,40000,2020,294400000
+Kia,Rio,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,silver,4,45000,2019,287500000
+Kia,Rio,VTE,LEFT,benzine,Crash,Manual,rwd,sedan,white,4,90000,2017,241500000
+Kia,Rio,VTE,LEFT,benzine,GOOD,Manual,rwd,sedan,white,4,94000,2016,264500000
+Kia,Rio,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,70000,2016,264500000
+Kia,Carens,VTE,LEFT,diesel,GOOD,Manual,4wd,hatchback,Gray,4,99000,2016,248400000
+Kia,Rio,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Black,4,35000,2017,207000000
+Kia,Rio,VTE,LEFT,benzine,GOOD,Manual,rwd,sedan,Black,4,60000,2017,207000000
+Kia,Sedona,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,Black,4,48000,2017,517500000
+Hyundai,Elantra,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,Blue,4,33000,2020,402500000
+Hyundai,Elantra,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Black,4,60000,2017,326600000
+Hyundai,Elantra,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,75000,2017,241500000
+Hyundai,Elantra,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,white,4,31000,2020,356500000
+Hyundai,Elantra,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,silver,4,91000,2015,264500000
+Hyundai,Elantra,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,72000,2015,287500000
+Hyundai,Elantra,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Cream,4,48000,2012,250700000
+Hyundai,Elantra,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Sugar,4,89000,2015,271400000
+Hyundai,Elantra,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,85000,2012,241500000
+Hyundai,Elantra,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,25000,2018,342700000
+Hyundai,Elantra,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,silver,4,89000,2013,248400000
+Hyundai,Elantra,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,white,4,36000,2020,395600000
+Hyundai,Elantra,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,gold silver,4,86000,2015,287500000
+Hyundai,Elantra,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,65000,2015,264500000
+Hyundai,Elantra,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,80000,2015,294400000
+Hyundai,Accent,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,71000,2013,227700000
+Hyundai,Accent,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,49594,2017,285200000
+Hyundai,Accent,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,53000,2017,250700000
+Hyundai,Accent,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,silver,4,90000,2015,241500000
+Hyundai,CRETA,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,Black,4,45000,2017,386400000
+Hyundai,CRETA,VTE,LEFT,diesel,Crash,automatic,FWD,suv,silver,4,53000,2016,386400000
+Hyundai,CRETA,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,Orange,4,44000,2018,432400000
+Hyundai,CRETA,VTE,LEFT,diesel,Crash,automatic,FWD,suv,Gray,4,78000,2016,368000000
+Hyundai,CRETA,VTE,LEFT,diesel,Crash,automatic,FWD,suv,Black,4,44000,2018,402500000
+Hyundai,CRETA,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,4,40000,2018,402500000
+Hyundai,CRETA,VTE,LEFT,diesel,GOOD,Manual,FWD,suv,Blue,4,58000,2015,402500000
+Hyundai,CRETA,VTE,LEFT,diesel,GOOD,Manual,FWD,suv,Black,4,42000,2017,395600000
+Hyundai,GRAND_I,VTE,LEFT,benzine,GOOD,Manual,rwd,hatchback,white,4,42000,2016,154100000
+Hyundai,I10,VTE,LEFT,benzine,Crash,Manual,rwd,hatchback,silver,4,95000,2012,138000000
+Hyundai,GRAND_I_SMART,VTE,LEFT,benzine,Crash,Manual,rwd,hatchback,silver,4,47000,2019,207000000
+Hyundai,H1,VTE,LEFT,benzine,GOOD,automatic,rwd,Van,white,4,90000,2016,363400000
+Hyundai,I30,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,silver,4,85000,2015,241500000
+Hyundai,I30,VTE,LEFT,benzine,GOOD,automatic,rwd,hatchback,Black,4,85000,2014,220800000
+Hyundai,IX35,VTE,LEFT,benzine,GOOD,automatic,rwd,suv,Black,4,80000,2017,310500000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,Crash,automatic,rwd,suv,Sugar,4,60000,2015,414000000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,GOOD,automatic,rwd,suv,white,4,60000,2015,414000000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,Crash,automatic,rwd,suv,Sugar,4,46000,2014,345000000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,GOOD,automatic,rwd,suv,white,4,125303,2013,363400000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,Black,4,60000,2014,363400000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,Crash,automatic,rwd,suv,white,4,42000,2013,356500000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,4,67000,2017,598000000
+Hyundai,SANTAFE ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,4,120000,2015,540500000
+Hyundai,STAREX ,VTE,LEFT,diesel,GOOD,automatic,rwd,Van,silver,4,90000,2015,363400000
+Hyundai,STAREX ,VTE,LEFT,diesel,Crash,automatic,rwd,Van,white,4,105000,2010,294400000
+Hyundai,VELOSTER ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Red,4,97000,2014,287500000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,65000,2016,471500000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,90000,2014,363400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Gray,4,80000,2010,253000000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,silver,4,80000,2013,333500000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Black,4,55000,2016,448500000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Black,4,66369,2014,388700000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,40000,2018,616400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,white,4,10000,2022,754400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,silver,4,40000,2018,616400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Black,4,31000,2016,529000000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,94000,2014,391000000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,silver,4,85000,2010,294400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,40000,2016,517500000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Black,4,64000,2016,478400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,86000,2013,356500000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,66000,2017,483000000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,40256,2015,386400000
+TOYOTA ,CAMRY ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,66000,2016,471500000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,Crash,Manual,rwd,sedan,white,4,60000,2014,340400000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,60000,2011,287500000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,37000,2016,356500000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Red,4,90000,2016,365700000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,74000,2015,349600000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,28000,2017,379500000
+TOYOTA ,COROLLA_ALTIS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,31000,2018,460000000
+TOYOTA ,COROLLA_CROSS  ,VTE,LEFT,hybrid,VERY GOOD,automatic,rwd,suv,Gray,4,41000,2022,724500000
+TOYOTA ,FJ_CRUISER   ,VTE,LEFT,hybrid,Crash,automatic,FWD,Jeep,Gray,6,68000,2013,874000000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,PPV,white,4,33000,2022,1292600000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,Crash,automatic,FWD,PPV,Black,4,1000,2023,1276500000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,white,4,40000,2018,1053400000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,PPV,white,4,40000,2020,1099400000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,PPV,Gray,4,2000,2023,1127000000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,white,4,30000,2018,1122400000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,Black,4,114000,2016,943000000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,Crash,automatic,FWD,PPV,silver,4,51000,2019,1058000000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,white,4,40000,2019,1122400000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,white,4,47000,2018,1030400000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,white,4,84000,2011,547400000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,white,4,87129,2017,931500000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,gold silver,4,75000,2012,625600000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,FWD,PPV,Black,4,38000,2018,1055700000
+TOYOTA ,FORTUNER ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,PPV,white,4,29000,2020,1115500000
+TOYOTA ,GT_86 ,VTE,LEFT,benzine,GOOD,automatic,rwd,coupe,white,4,60000,2014,618700000
+TOYOTA ,GT_86 ,VTE,LEFT,benzine,GOOD,automatic,rwd,coupe,Orange,4,15000,2018,644000000
+TOYOTA ,HIACE ,VTE,LEFT,diesel,GOOD,Manual,rwd,Van,white,4,5122,2020,1069500000
+TOYOTA ,HIACE ,VTE,LEFT,diesel,Crash,Manual,rwd,Van,white,4,120000,2020,1069500000
+TOYOTA ,HIACE ,VTE,LEFT,diesel,Crash,Manual,rwd,Van,white,4,110000,2012,586500000
+TOYOTA ,HIACE ,VTE,LEFT,diesel,Crash,Manual,rwd,Van,white,4,83000,2017,770500000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,8,63000,2014,1748000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,silver,8,65000,2013,1541000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,gold silver,8,73000,2012,1124424000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,8,120000,2011,1368500000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,8,60000,2014,1541000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,8,60000,2014,1725000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,suv,white,6,1500,2023,3427000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,suv,white,6,38000,2020,2484000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,8,60000,2014,1725000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,8,83000,2013,1426000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,8,70000,2015,1725000000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,8,84000,2017,2173500000
+TOYOTA ,LAND_CRUISER ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,8,67000,2018,2530000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,6,61000,2017,1598500000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,VERY GOOD,automatic,FWD,suv,white,6,32000,2020,1752600000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,Black,6,85000,2012,1752600000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,silver,6,69000,2013,1081000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,GOOD,Manual,FWD,suv,Black,6,70000,2015,1127000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,Black,6,77000,2013,1104000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,Black,6,65000,2012,1104000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,Crash,automatic,FWD,suv,white,6,55000,2015,1334000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,GOOD,automatic,FWD,suv,white,6,56000,2013,1265000000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,Crash,Manual,FWD,suv,white,6,68000,2012,954500000
+TOYOTA ,PRADO  ,VTE,LEFT,diesel,Crash,automatic,FWD,,white,6,85000,2012,1076400000
+TOYOTA ,REVO ,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,white,4,36000,2019,685400000
+TOYOTA ,REVO ,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,58000,2015,655500000
+TOYOTA ,REVO ,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,22000,2020,667000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,white,4,90000,2017,793500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,50000,2019,885500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,54000,2016,839500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,93000,2015,828000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,Orange,4,68000,2017,816500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,silver,4,97000,2015,770500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,silver,4,70000,2017,816500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,white,4,70000,2016,816500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,48000,2017,754400000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,107000,2017,816500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,VERY GOOD,Manual,4x4,SUV's,white,4,53000,2020,897000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,75000,2015,823400000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,48000,2016,816500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,57000,2019,885500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,62000,2015,823400000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,silver,4,85000,2017,770500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,white,4,70000,2018,724500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,1226,2019,908500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,white,4,52000,2015,816500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,Black,4,40000,2021,977500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,Blue,4,80000,2016,678500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,white,4,68000,2018,828000000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,Black,4,50000,2017,701500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,silver,4,50000,2018,805000000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,Orange,4,80000,2017,770500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,white,4,24300,2021,862500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,31000,2019,811900000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,35000,2018,851000000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,VERY GOOD,Manual,2x4,SUV's,white,4,18000,2022,857900000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,white,4,52000,2016,731400000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,50000,2018,747500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,36000,2021,862500000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,VERY GOOD,automatic,2x4,SUV's,white,4,40000,2020,825700000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,GOOD,automatic,2x4,SUV's,white,4,50000,2019,823400000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,VERY GOOD,automatic,2x4,SUV's,white,4,31000,2020,880900000
+TOYOTA ,REVO_prerunner,VTE,LEFT,diesel,VERY GOOD,automatic,2x4,SUV's,silver,4,25000,2021,874000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,white,4,95000,2016,793500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,white,4,65000,2019,885500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,automatic,4x4,SUV's,white,4,132000,2016,805000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,automatic,4x4,SUV's,white,4,48000,2017,851000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,VERY GOOD,automatic,4x4,SUV's,white,4,43000,2021,1069500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,VERY GOOD,automatic,4x4,SUV's,white,4,32000,2020,1069500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,GOOD,automatic,4x4,SUV's,white,4,74000,2017,782000000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,white,4,53000,2016,816500000
+TOYOTA ,REVO_4x4,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,Black,4,75000,2015,839500000
+TOYOTA ,REVO_SMART_CAB ,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,75000,2015,501400000
+TOYOTA ,REVO_SMART_CAB ,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,Black,4,75000,2017,570400000
+TOYOTA ,REVO_SMART_CAB ,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,Gray,4,67000,2017,570400000
+TOYOTA ,RUSH ,VTE,LEFT,benzine,Crash,automatic,rwd,SUV,Black,4,29000,2019,586500000
+TOYOTA ,SIENNA ,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,Black,4,90000,2014,437000000
+TOYOTA ,SIENNA ,VTE,LEFT,benzine,GOOD,automatic,rwd,hatchback,gold silver,4,52000,2010,529000000
+TOYOTA ,TUNDRA ,VTE,LEFT,benzine,GOOD,automatic,4x4,SUV's,Sugar,8,65000,2010,1354700000
+TOYOTA ,TUNDRA ,VTE,LEFT,benzine,GOOD,automatic,4x4,SUV's,silver,8,66000,2010,770500000
+TOYOTA ,TUNDRA ,VTE,LEFT,benzine,Crash,automatic,4x4,SUV's,Sugar,8,66000,2015,1058000000
+TOYOTA ,VIGO,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,Red,4,120000,2008,356500000
+TOYOTA ,VIGO,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,76000,2008,351900000
+TOYOTA ,VIGO_4x4,CPS,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,150000,2010,455400000
+TOYOTA ,VIGO_prerunner,CPS,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,100000,2013,570400000
+TOYOTA ,VIGO_CHAMP ,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,110000,2013,402500000
+TOYOTA ,VIGO_CHAMP ,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,61000,2013,501400000
+TOYOTA ,VIGO_CHAMP ,VTE,LEFT,diesel,GOOD,Manual,2x4,SUV's,white,4,100000,2014,434700000
+TOYOTA ,VIGO_CHAMP_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,65000,2014,563500000
+TOYOTA ,VIGO_CHAMP_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,100000,2013,570400000
+TOYOTA ,VIGO_CHAMP_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,87000,2015,609500000
+TOYOTA ,VIGO_CHAMP_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,white,4,166187,2011,483000000
+TOYOTA ,VIGO_CHAMP_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,silver,4,90000,2015,586500000
+TOYOTA ,VIGO_CHAMP_prerunner,VTE,LEFT,diesel,Crash,Manual,2x4,SUV's,gold silver,4,72455,2014,565800000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,Gray,4,70000,2015,644000000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,gold silver,4,83000,2014,609500000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,Crash,automatic,4x4,SUV's,white,4,120000,2013,586500000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,white,4,90000,2015,586500000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,Crash,Manual,4x4,SUV's,white,4,90000,2014,639400000
+TOYOTA ,VIGO_CHAMP_4x4,HP,LEFT,diesel,Crash,Manual,4x4,SUV's,silver,4,61055,2013,598000000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,silver,4,78000,2014,609500000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,95000,2015,655500000
+TOYOTA ,VIGO_CHAMP_4x4,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,90000,2014,575000000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Sugar,4,32645,2017,356500000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Gray,4,59000,2018,379500000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,Crash,Manual,rwd,sedan,Purtle,4,65000,2016,287500000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,Blue,4,12000,2020,409400000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,VERY GOOD,Manual,rwd,sedan,Gray,4,8000,2020,386400000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,62000,2014,368000000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Black,4,20000,2020,391000000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,65000,2018,386400000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,white,4,28000,2021,443900000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,21000,2019,407100000
+TOYOTA ,VIOS ,VTE,LEFT,benzine,GOOD,Manual,rwd,sedan,white,4,40000,2018,356500000
+TOYOTA ,YARIS ,VTE,LEFT,benzine,Crash,Manual,rwd,sedan,silver,4,97000,2009,207000000
+TOYOTA ,YARIS ,VTE,LEFT,benzine,GOOD,Manual,rwd,hatchback,white,4,44259,2017,342700000
+TOYOTA ,YARIS ,VTE,LEFT,benzine,GOOD,automatic,rwd,hatchback,silver,4,59000,2017,342700000
+TOYOTA ,YARIS ,VTE,LEFT,benzine,Crash,automatic,rwd,hatchback,silver,4,54000,2014,325000000
+TOYOTA ,YARIS ,VTE,LEFT,benzine,GOOD,automatic,rwd,hatchback,white,4,50000,2017,340400000
+HONDA ,CITY ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,white,4,25000,2022,437000000
+HONDA ,CITY ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,white,4,30000,2022,460000000
+HONDA ,CITY ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,Black,4,21000,2022,506000000
+HONDA ,CITY ,VTE,LEFT,benzine,VERY GOOD,automatic,rwd,sedan,Black,4,51000,2020,483000000
+HONDA ,CITY ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,silver,4,80000,2017,356500000
+HONDA ,CIVIC ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,Gray,4,80000,2018,455400000
+HONDA ,CIVIC ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,70000,2017,432400000
+HONDA ,CIVIC ,VTE,LEFT,benzine,Crash,automatic,rwd,sedan,white,4,50000,2018,441600000
+HONDA ,CIVIC ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,white,4,50000,2017,425500000
+HONDA ,CIVIC ,VTE,LEFT,benzine,GOOD,automatic,rwd,sedan,Blue,4,70000,2018,425500000
+TOYOTA,VIGO_CHAMP_4x4,VTE,RIGHT,diesel,GOOD,automatic,4x4,SUV's,silver,4,100000,2010,363000000
+TOYOTA,REVO_CAP_4x4,VTE,RIGHT,diesel,GOOD,automatic,4x4,SUV's,silver,4,48000,2018,386750000
+TOYOTA,REVO_4x4,SVK,RIGHT,diesel,GOOD,automatic,4x4,SUV's,Gray,4,67000,2017,448500000
+TOYOTA,REVO_prerunner,SVK,RIGHT,diesel,GOOD,Manual,4x2,SUV's,white,4,58000,2017,539500000
+TOYOTA,FORTUNER ,SVK,RIGHT,diesel,GOOD,automatic,4x2,PPV,white,4,23000,2021,631500000
+TOYOTA,FORTUNER ,SVK,RIGHT,diesel,GOOD,automatic,4x4,PPV,white,4,73000,2021,650000000
+TOYOTA,FORTUNER ,VTE,RIGHT,diesel,GOOD,automatic,4x4,PPV,white,4,13000,2023,994500000
+TOYOTA,FORTUNER ,VTE,LEFT,diesel,GOOD,automatic,4x4,PPV,white,4,24000,2023,1019850000
+TOYOTA,REVO_4x4,VTE,RIGHT,diesel,GOOD,automatic,4x4,SUV's,Gray,4,67000,2020,624000000
+TOYOTA,VIGO_CHAMP_4x4,VTE,RIGHT,diesel,GOOD,automatic,4x4,SUV's,white,4,82000,2015,351000000
+TOYOTA,VIGO_prerunner,VTE,LEFT,diesel,GOOD,Manual,4x4,SUV's,white,4,76000,2014,473000000
+TOYOTA,VIGO_prerunner,VTE,RIGHT,diesel,GOOD,Manual,4x4,SUV's,white,4,132000,2009,211250000
+ISUZU,DMAX,SVK,RIGHT,diesel,GOOD,Manual,4x4,SUV's,white,4,23000,2021,455000000
+ISUZU,DMAX,VTE,RIGHT,diesel,GOOD,Manual,4x4,SUV's,white,4,23000,2022,321750000
+TOYOTA,REVO_4x4,SVK,RIGHT,diesel,GOOD,automatic,4x4,SUV's,Black,4,59000,2018,357500000
+TOYOTA,VIGO_4x4,VTE,RIGHT,diesel,GOOD,automatic,4x4,SUV's,Black,4,159000,2010,344500000
+TOYOTA,FORTUNER ,SVK,RIGHT,diesel,GOOD,automatic,4x2,PPV,white,4,94000,2014,422500000
+TOYOTA,VIGO_prerunner,SVK,RIGHT,diesel,GOOD,Manual,4x4,SUV's,white,4,81000,2012,370000000

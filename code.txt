@@ -1,0 +1,45 @@
+# Create a button for predictions
+if st.sidebar.button("Predict",key=None,on_click=None):
+    # Collect user inputs and filter the dataset
+    input_data = df[
+        (df['Cylinders'] == Cylinders) &
+        (df['Fuel_E'] == fuels) 
+        (df['Car Make_E'] == car_make_v) &
+        (df['Condition_E'] == Conditions) &
+        (df['Year'] == Year) &
+        (df['Paint-color_E'] == Year) &
+        (df['Car Model_E'] == Year) &
+        (df['Transmission_E'] == Year) &
+        (df['Location_E'] == Year) &
+        (df['Mileage (km)'] == Year) &
+        (df['Drive'] == Year) &
+        (df['Type_E'] == Year) &
+        (df['Steering wheel_E'] == Year) 
+        
+        # Add filtering conditions for the other features
+    ]
+    st.write(df)
+    if not input_data.empty:
+        # Select the features from the filtered data
+        user_inputs = input_data.iloc[0, 3:]  # Adjust the column indices as needed
+        
+        # Reshape the user input into a 2D array (required by the models)
+        user_inputs = user_inputs.values.reshape(1, -1)
+        new_data = [[4,1,2,3,2021,11,33,1,2,100000,3,9,0]]
+        # Make predictions using all four models
+        lr_prediction = predict_price(lr_model, new_data)
+        #dtr_prediction = predict_price(dtr_model, user_inputs)
+        #rfr_prediction = predict_price(rfr_model, user_inputs)
+        #lgbm_prediction = predict_price(lgbm_model, user_inputs)
+        # Display the predictions
+    else:
+        st.warning("No data found for the given input. Please adjust your criteria.")
+if st.sidebar.button("Predict"):
+    st.subheader("Predicted Prices")
+    st.write(f"Linear Regression Prediction: {lr_prediction[0]}")
+    #st.write(f"Decision Tree Regression Prediction: {dtr_prediction[0]}")
+    #st.write(f"Random Forest Regression Prediction: {rfr_prediction[0]}")
+    #st.write(f"LightGBM Prediction: {lgbm_prediction[0]}")
+if __name__ == "__main__":
+    st.title("Used Car Price Prediction App")
+    st.write("Enter the details and click 'Predict' to get price predictions.")
